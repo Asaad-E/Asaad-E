@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asaad-E
-- 👀 I’m interested in web development and machine learning
+- 👀 I’m interested in web development, machine learning and Physich/Game engines
 - 🌱 I’m currently learning Javascript, Python, Statistics and Data Science
 
 <!---
